@@ -3,43 +3,6 @@ public class LongBitManipulation {
 
 	/**
 	 * library for bit manipulation in java (long focused)
-	 * list of method in class
-	 * 
-	 * 1-	long swap(long num)
-	 * 2-	long setBit(long num,int bit)
-	 * 3-	long clearBit(long num,int bit)
-	 * 4-	long flipAll(long num)
-	 * 5-	boolean isBitClear(long num, int bit)
-	 * 6-	boolean isBitSet(long num, int bit)
-	 * 7-	long nor (long num1,long num2)
-	 * 8-	long nand (long num1,long num2)
-	 * 9-	long xnor (long num1,long num2)
-	 * 10-	long rotateLeft(long num)
-	 * 11-	long rotateLeft(long num,int rotations)
-	 * 12-	long rotateRight(long num)
-	 * 13-	long rotateRight(long num,int rotations)
-	 * 14-	long arrayXor(long[] arr)
-	 * 15-	long arrayOr(long[] arr)
-	 * 16-	long arrayXnor(long[] arr)
-	 * 17-	long arrayAnd(long[] arr)
-	 * 18-	long arrayNand(long[] arr)
-	 * 19-	long arrayNor(long[] arr)
-	 * 20-	int numberOfOnes(long num)
-	 * 21-	int numberOfZeros(long num)
-	 * 22-	short[] longToShort(long num)
-	 * 23-	byte[] longToByte(long num)
-	 * 24-	char[] longToChar(long num)
-	 * 25-	short[] longToInt(long num)
-	 * 26-	int parity(long num)
-	 * 27-	boolean containEqualbyte(long num, byte word)
-	 * 28-	boolean containEqualShort(long num, short word)
-	 * 29-	boolean containGreaterbyte(long num, byte word)
-	 * 30-	boolean containGreaterShort(long num, short word)
-	 * 31-	boolean containLesserbyte(long num, byte word)
-	 * 32-	boolean containLesserShort(long num, short word)
-	 * 33-	boolean containLesserInteger(long num, int word)
-	 * 34-	boolean containGreaterInteger(long num, int word)
-	 * 36-	boolean containEqualInteger(long num, int word)
 	 * */
 	
 
