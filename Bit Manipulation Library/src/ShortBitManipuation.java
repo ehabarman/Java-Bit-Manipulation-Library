@@ -3,36 +3,6 @@ public class ShortBitManipuation {
 
 	/**
 	 * library for bit manipulation in java (short focused)
-	 * list of method in class
-	 * 
-	 * 1-	short swap(short num)
-	 * 2-	short setBit(short num,int bit)
-	 * 3-	short clearBit(short num,int bit)
-	 * 4-	short flipAll(short num)
-	 * 5-	boolean isBitClear(short num, int bit)
-	 * 6-	boolean isBitSet(short num, int bit)
-	 * 7-	short nor (short num1,short num2)
-	 * 8-	short nand (short num1,short num2)
-	 * 9-	short xnor (short num1,short num2)
-	 * 10-	short rotateLeft(short num)
-	 * 11-	short rotateLeft(short num,int rotations)
-	 * 12-	short rotateRight(short num)
-	 * 13-	short rotateRight(short num,int rotations)
-	 * 14-	short arrayXor(short[] arr)
-	 * 15-	short arrayOr(short[] arr)
-	 * 16-	short arrayXnor(short[] arr)
-	 * 17-	short arrayAnd(short[] arr)
-	 * 18-	short arrayNand(short[] arr)
-	 * 19-	short arrayNor(short[] arr)
-	 * 20-	int numberOfOnes(short num)
-	 * 21-	int numberOfZeros(short num)
-	 * 22-	byte[] shortToByte(short num)
-	 * 23-	boolean containEqualbyte(short num, byte word)
-	 * 24-	boolean containGreaterbyte(short num, byte word)
-	 * 25-	boolean containLesserbyte(short num, byte word)
-	 * 26-	int parity(short num)
-
-
 	 * */
 	
 	
