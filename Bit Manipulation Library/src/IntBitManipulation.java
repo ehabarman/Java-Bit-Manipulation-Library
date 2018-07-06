@@ -4,39 +4,6 @@ public class IntBitManipulation {
 
 	/**
 	 * library for bit manipulation in java (Integer focused)
-	 * list of methods in class
-	 * 
-	 * 1-	int swap(int num)
-	 * 2-	int setBit(int num,int bit)
-	 * 3-	int clearBit(int num,int bit)
-	 * 4-	int flipAll(int num)
-	 * 5-	boolean isBitClear(int num, int bit)
-	 * 6-	boolean isBitSet(int num, int bit)
-	 * 7-	int nor (int num1,int num2)
-	 * 8-	int nand (int num1,int num2)
-	 * 9-	int xnor (int num1,int num2)
-	 * 10-	int rotateLeft(int num)
-	 * 11-	int rotateLeft(int num,int rotations)
-	 * 12-	int rotateRight(int num)
-	 * 13-	int rotateRight(int num,int rotations)
-	 * 14-	int arrayXor(int[] arr)
-	 * 15-	int arrayOr(int[] arr)
-	 * 16-	int arrayXnor(int[] arr)
-	 * 17-	int arrayAnd(int[] arr)
-	 * 18-	int arrayNand(int[] arr)
-	 * 19-	int arrayNor(int[] arr)
-	 * 20-	int numberOfOnes(int num)
-	 * 21-	int numberOfZeros(int num)
-	 * 22-	short[] intToShort(int num)
-	 * 23-	byte[] intToByte(int num)
-	 * 24-	char[] intToChar(int num)
-	 * 25-	int parity(int num)
-	 * 26-	boolean containEqualbyte(int num, byte word)
-	 * 27-	boolean containEqualShort(int num, short word)
-	 * 28-	boolean containGreaterbyte(int num, byte word)
-	 * 29-	boolean containGreaterShort(int num, short word)
-	 * 30-	boolean containLesserbyte(int num, byte word)
-	 * 31-	boolean containLesserShort(int num, short word)
 	 * */
 	
 
