@@ -3,32 +3,6 @@ public class ByteBitManipulation {
 
 	/**
 	 * library for bit manipulation in java (byte focused)
-	 * list of method in class
-	 * 
-	 * 1-	byte swap(byte num)
-	 * 2-	byte setBit(byte num,int bit)
-	 * 3-	byte clearBit(byte num,int bit)
-	 * 4-	byte flipAll(byte num)
-	 * 5-	boolean isBitClear(byte num, int bit)
-	 * 6-	boolean isBitSet(byte num, int bit)
-	 * 7-	byte nor (byte num1,byte num2)
-	 * 8-	byte nand (byte num1,byte num2)
-	 * 9-	byte xnor (byte num1,byte num2)
-	 * 10-	byte rotateLeft(byte num)
-	 * 11-	byte rotateLeft(byte num,int rotations)
-	 * 12-	byte rotateRight(byte num)
-	 * 13-	byte rotateRight(byte num,int rotations)
-	 * 14-	byte arrayXor(byte[] arr)
-	 * 15-	byte arrayOr(short[] arr)
-	 * 16-	byte arrayXnor(byte[] arr)
-	 * 17-	byte arrayAnd(byte[] arr)
-	 * 18-	byte arrayNand(byte[] arr)
-	 * 19-	byte arrayNor(byte[] arr)
-	 * 20-	int numberOfOnes(byte num)
-	 * 21-	int numberOfZeros(byte num)
-	 * 22-	int parity(byte num)
-
-
 	 * */
 	
 	
